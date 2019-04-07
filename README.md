@@ -9,7 +9,7 @@ If you are interested in working on this A2J Guided Interview for your own proje
 
 To host this A2J Guided Interview, you will need the A2J Viewer and the A2J Document Assembly Tool. These are both available for free to anyone creating projects for self-represented litigants. You can find the A2J Viewer Github Repo here:https://github.com/CCALI/a2jviewer You can find the A2J Document Assembly Github Repo here: https://github.com/CCALI/a2jdat
 
-To host the sms and email code follow these steps:
+To host the sms and email code you will need a twilio account, functioning mail server, and php. Follow these steps:
 1.) setup the viewer and dat as described in the instructions above
 2.) place hackathon-sms.php and ics.php in the viewer.html directory
 3.) extract the text-demo.zip file to a library directory of your choosing. Note the location
