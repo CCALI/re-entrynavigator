@@ -1,0 +1,9 @@
+[twilio]
+twilio_sid=
+twilio_token=
+twilio_from=+1##########
+smtp_user=null
+smtp_pass=null
+smtp_host=localhost
+smtp_port=25
+lib_dir=/var/www/html/text-demo
