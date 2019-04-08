@@ -20,7 +20,7 @@ To host the sms and email code you will need a twilio account, functioning mail 
 4.) create a config.ini with the appropriate keys in a place that is not web accessible as this is where sensitive data will
 be stored. Note the location. A sample config.ini is provided.
 
-5.) modify line 8 to point to your config.ini
+5.) modify line 8 of `hackathon-sms.php` to point to your config.ini
 
 6.) add the `lib_dir` key in config.ini and have it point to the location of the extracted `text-demo.zip`
 
