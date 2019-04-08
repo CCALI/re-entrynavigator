@@ -22,7 +22,7 @@ be stored. Note the location. A sample config.ini is provided.
 
 5.) modify line 8 to point to your config.ini
 
-6.) add the lib_dir key to point to the location of the extracted text-demo.zip
+6.) add the lib_dir key in config.ini and have it point to the location of the extracted text-demo.zip
 
 7.) unzip the guided interview to the guides folder using a zip extraction utility or the demo tool located in /a2j-viewer/viewer/index.php
 
